@@ -11,6 +11,7 @@
 ### a. :white_check_mark: HTML,CSS,Javascript -Webdesign [Done]() 
 ### b. :white_check_mark: Algorithm Study [Study for good]()
 #### Done means well awared enough to say its skillful
+### Not Yet means the project done but not fully understand
 #### not linked yet means its on my notes, soon be on Gitgub
 
 
