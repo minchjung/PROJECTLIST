@@ -15,7 +15,8 @@
 # Lecture List
 ### :white_check_mark: Spring FramWork입문 [Study]()
 ### :white_check_mark: Spring Core [Study]()
-### :white_check_mark: Spring MVC  [Study]()
+### :white_check_mark: 실전 Spring Boot & JPA 활용1 [Study]()
+### :white_check_mark: Spring MVC1편  [Study]()
 </br>  
 
 # Book List 
