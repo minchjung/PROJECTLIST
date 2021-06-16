@@ -9,7 +9,7 @@
 ### 9. :white_check_mark: Processing- Aduino Sensor GUI [Done](https://github.com/minchjung/processing3.0)
 ### 0. :white_check_mark: Android - Music Player [Not yet](https://github.com/minchjung/Android)
 ### a. :white_check_mark: HTML,CSS,Javascript -Webdesign [Done]() 
-### b. :white_check_mark: Algorithm Study [Done]()
+### b. :white_check_mark: Algorithm Study [Study for good]()
 #### Done means well awared enough to say its skillful
 #### not linked yet means not on Github but its on my notes 
 
