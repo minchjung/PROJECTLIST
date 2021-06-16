@@ -23,6 +23,10 @@
 ### :white_large_square:Spring Core[Study]()
 ### :white_large_square:Spring MVC [Study]()
 
+# Book & Material from First Try 
+### 실전 예제로 배우는 파이썬 프로그래밍 
+### 빅데이터 분석을 위한 R 프로그래밍 
+### IT CookBook 자바 프로그래밍 for Beginner 
 
 # Work to do JUNE-2021
 ### 1. Spring Study 
