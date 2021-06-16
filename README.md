@@ -13,10 +13,12 @@
 </br>  
 
 # Lecture List
+### :white_check_mark: Spring 입문-코드로 배우는 웹MVC [Study]()
 ### :white_check_mark: Spring FramWork입문 [Study]()
 ### :white_check_mark: Spring Core [Study]()
 ### :white_check_mark: 실전 Spring Boot & JPA 활용1 [Study]()
-### :white_check_mark: Spring MVC1편  [Study]()
+### :white_large_square: Spring MVC1편  [Study]()
+### :white_large_square: HTTP 웹 기본지식 []()
 </br>  
 
 # Book List 
