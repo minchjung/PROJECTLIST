@@ -1,21 +1,16 @@
 # PROJECTLIST
-### 1. Python - Crawling Stock info[]()
-### 2. Python - Crawling Articles[]() 
-### 3. Python - Imaging Process[]()
-### 4. JSP - Login & Bulletin[]()
-### 5. JPA- Businees Order []()
-### 6. Spring - Business Order[]()
-### 7. Android - Aduino Sensor [Link](https://github.com/minchjung/Android)
-### 9. Processing- Aduino Sensor [Link](https://github.com/minchjung/processing3.0)
-### 0. Android - Music Player [Link](https://github.com/minchjung/Android)
-### a. HTML,CSS,Javascript -Webdesign []() 
-### b. Algorithm Study []()
+### 1. :white_check_mark: Python - Crawling Stock info[]()
+### 2. :white_check_mark: Python - Crawling Articles[]() 
+### 3. :white_check_mark: Python - Imaging Process[]()
+### 4. :white_check_mark: JSP - Login & Bulletin[]()
+### 5. :white_check_mark: JPA- Businees Order []()
+### 6. :white_check_mark: Spring - Business Order[]()
+### 7. :white_check_mark: Android - Aduino Sensor [Link](https://github.com/minchjung/Android)
+### 9. :white_check_mark: Processing- Aduino Sensor [Link](https://github.com/minchjung/processing3.0)
+### 0. :white_check_mark: Android - Music Player [Link](https://github.com/minchjung/Android)
+### a. :white_check_mark: HTML,CSS,Javascript -Webdesign []() 
+### b. :white_check_mark: Algorithm Study []()
 
-
-# Work to do JUNE-2021
-### 1. Spring Study 
-### 2. Retry Music Player with Kotlin & Compose
-### 3. Android New Project with decent Architecther/ Compose 
 
 # Book List 
 ### :white_check_mark:비전공자를 위한 이해할 수 있는 it 지식 [읽고 난 review]()
@@ -27,3 +22,9 @@
 ### :white_check_mark:Spring FramWork입문[Study]()
 ### :white_large_square:Spring Core[Study]()
 ### :white_large_square:Spring MVC [Study]()
+
+
+# Work to do JUNE-2021
+### 1. Spring Study 
+### 2. Retry Music Player with Kotlin & Compose
+### 3. Android New Project with decent Architecther/ Compose 
