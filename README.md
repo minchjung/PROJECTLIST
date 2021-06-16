@@ -1,7 +1,7 @@
 # PROJECTLIST
 ### 1. Python - Crawling Stock info[]()
 ### 2. Python - Crawling Articles[]() 
-### 3. JSP - Login & Bulletine[]()
+### 3. JSP - Login & Bulletin[]()
 ### 4. JPA- Businees Order Process[]()
 ### 5. Android - Aduino Sensor [Link](https://github.com/minchjung/Android)
 ### 6. Processing- Aduino Sensor [Link](https://github.com/minchjung/processing3.0)
