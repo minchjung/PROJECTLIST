@@ -36,6 +36,7 @@
 </br>  
 
 # Work to do JUNE-2021
-### 1. Spring Study 
-### 2. Retry Music Player with Kotlin & Compose
-### 3. Android New Project with decent Architecther/ Compose 
+### 1. Spring Study by Lecture 
+### 2. Spring Practical trial by BootCamp
+### 3. Retry Music Player with Kotlin & Compose
+### 4. Android New Project with decent Architecther/ Compose 
