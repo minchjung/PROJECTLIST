@@ -13,15 +13,15 @@
 
 
 # Book List 
-### :white_check_mark:비전공자를 위한 이해할 수 있는 it 지식  [review]()
-### :white_large_square:운영체제 쉽게 배운다
-### :white_large_square:한권으로 그리는 컴퓨터 과학 
-### :white_large_square:흔하지 않고 좋은 웹 개발자가 되는 방법
+### :white_check_mark: 비전공자를 위한 이해할 수 있는 it 지식  [review]()
+### :white_large_square: 운영체제 쉽게 배운다
+### :white_large_square: 한권으로 그리는 컴퓨터 과학 
+### :white_large_square: 흔하지 않고 좋은 웹 개발자가 되는 방법
 
 # Lecture List
-### :white_check_mark:Spring FramWork입문[Study]()
-### :white_large_square:Spring Core[Study]()
-### :white_large_square:Spring MVC [Study]()
+### :white_check_mark: Spring FramWork입문 [Study]()
+###  :white_check_mark: Spring Core [Study]()
+###  :white_check_mark: Spring MVC  [Study]()
 
 # Book & Material from First Try 
 ### 실전 예제로 배우는 파이썬 프로그래밍 
