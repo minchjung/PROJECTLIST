@@ -21,14 +21,14 @@
 
 # Lecture List
 ### :white_check_mark: Spring FramWork입문 [Study]()
-###  :white_check_mark: Spring Core [Study]()
-###  :white_check_mark: Spring MVC  [Study]()
+### :white_check_mark: Spring Core [Study]()
+### :white_check_mark: Spring MVC  [Study]()
 </br>  
 
-# Book & Material from First Try 
-### 실전 예제로 배우는 파이썬 프로그래밍 
-### 빅데이터 분석을 위한 R 프로그래밍 
-### IT CookBook 자바 프로그래밍 for Beginner 
+# Book & Lec-Material from First Try 
+### :white_check_mark: 실전 예제로 배우는 파이썬 프로그래밍 
+### :white_check_mark: 빅데이터 분석을 위한 R 프로그래밍 
+### :white_check_mark: IT CookBook 자바 프로그래밍 for Beginner 
 </br>  
 
 # Work to do JUNE-2021
