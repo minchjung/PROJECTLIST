@@ -1,9 +1,16 @@
 # PROJECTLIST
-### 1. Android - Aduino Sensor [Link](https://github.com/minchjung/Android)
-### 2. Processing- Aduino Sensor [Link](https://github.com/minchjung/processing3.0)
-### 3. Android - Music Player [Link](https://github.com/minchjung/Android)
-### 4. Spring Lecture [Link](https://github.com/minchjung/Spring)
-### 5. Spring Camp 
+### 1. Python - Crawling Stock info[]()
+### 2. Python - Crawling Articles[]() 
+### 3. JSP - Login & Bulletine[]()
+### 4. JPA- Businees Order Process[]()
+### 5. Android - Aduino Sensor [Link](https://github.com/minchjung/Android)
+### 6. Processing- Aduino Sensor [Link](https://github.com/minchjung/processing3.0)
+### 7. Android - Music Player [Link](https://github.com/minchjung/Android)
+### 8. Spring Lecture [Link](https://github.com/minchjung/Spring)
+### 9. Spring Camp 
+### 0. Webdesign []() 
+### Algorithm Study []()
+
 
 # Work to do JUNE-2021
 ### 1. Spring Study 
