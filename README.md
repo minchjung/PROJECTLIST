@@ -11,6 +11,9 @@
 ### a. :white_check_mark: HTML,CSS,Javascript -Webdesign [Done]() 
 ### b. :white_check_mark: Algorithm Study [Done]()
 #### Done means well awared enough to say its skillful
+#### not linked yet means not on Github but its on my notes 
+
+
 </br>  
 
 # Lecture List
