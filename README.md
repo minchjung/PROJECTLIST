@@ -12,8 +12,8 @@
 ### b. :white_check_mark: Algorithm Study [Study for good]()
 #### Done means well awared enough to say its skillful
 #### Not Yet means the project done but not fully understanded
-#### not linked yet means soon be on that Gitgub from my notes and desktop
-#### All that things need to be developed far more,though still the product shine itself for good 
+#### not linked yet means soon be on that Link from my notes and desktop
+#### All that things need to be developed far more though still the product shine itself for good 
 
 
 </br>  
