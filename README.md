@@ -5,7 +5,7 @@
 ### 4. Spring Lecture [Link](https://github.com/minchjung/Spring)
 ### 5. Spring Camp 
 
-# Work to do for JUNE-2021
+# Work to do JUNE-2021
 ### 1. Spring Study 
 ### 2. Retry Music Player with Kotlin & Compose
 ### 3. Android New Project
