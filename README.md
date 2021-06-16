@@ -1,15 +1,16 @@
 # PROJECTLIST
-### 1. :white_check_mark: Python - Crawling Stock info[]()
-### 2. :white_check_mark: Python - Crawling Articles[]() 
-### 3. :white_check_mark: Python - Imaging Process[]()
-### 4. :white_check_mark: JSP - Login & Bulletin[]()
-### 5. :white_check_mark: JPA- Businees Model []()
-### 6. :white_check_mark: Spring - Businees Model []()
+### 1. :white_check_mark: Python - Crawling Stock info[Done]()
+### 2. :white_check_mark: Python - Crawling Articles[Done]() 
+### 3. :white_check_mark: Python - Imaging Process[Done]()
+### 4. :white_check_mark: JSP - Login & Bulletin[Done]()
+### 5. :white_check_mark: JPA- Businees Model [Done]()
+### 6. :white_check_mark: Spring - Businees Model [Done]()
 ### 7. :white_check_mark: Android - Aduino Sensor UI [Link](https://github.com/minchjung/Android)
 ### 9. :white_check_mark: Processing- Aduino Sensor GUI [Link](https://github.com/minchjung/processing3.0)
 ### 0. :white_check_mark: Android - Music Player [Link](https://github.com/minchjung/Android)
-### a. :white_check_mark: HTML,CSS,Javascript -Webdesign []() 
-### b. :white_check_mark: Algorithm Study []()
+### a. :white_check_mark: HTML,CSS,Javascript -Webdesign [Done]() 
+### b. :white_check_mark: Algorithm Study [Done]()
+#### Done means well awared enough to say its skillful
 </br>  
 
 # Lecture List
@@ -17,8 +18,8 @@
 ### :white_check_mark: Spring FramWork입문 [Study]()
 ### :white_check_mark: Spring Core [Study]()
 ### :white_check_mark: 실전 Spring Boot & JPA 활용1 [Study]()
-### :white_large_square: Spring MVC1편  [Study]()
-### :white_large_square: HTTP 웹 기본지식 []()
+### :white_large_square: Spring MVC1편  [Study on Going]()
+### :white_large_square: HTTP 웹 기본지식 [Study on Going]()
 </br>  
 
 # Book List 
