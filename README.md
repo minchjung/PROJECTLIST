@@ -11,7 +11,7 @@
 ### a. :white_check_mark: HTML,CSS,Javascript -Webdesign [Done]() 
 ### b. :white_check_mark: Algorithm Study [Study for good]()
 #### Done means well awared enough to say its skillful
-#### not linked yet means not on Github but its on my notes 
+#### not linked yet means its on my notes, soon be on Gitgub
 
 
 </br>  
