@@ -4,12 +4,12 @@
 |1| :white_check_mark:| Crawling Stock info| Python | A||
 |2| :white_check_mark:| Crawling Article| Python | A ||
 |3| :white_check_mark:| Calendar| Python | A ||
-|4| :white_check_mark:| Login, Bulletin| JSP | A ||
-|5| :white_check_mark:| Product Business App| JPA | C ||
-|6| :white_check_mark:| Product Business App| Spring | C ||
-|7| :white_check_mark:| Aduino Sensor UI| Processing | A ||
-|8| :white_check_mark:| Aduino Sensor UI| Android | B ||
-|9| :white_check_mark:| Music Player| Android | B ||
+|4| :white_check_mark:| Aduino Sensor UI| Processing | A ||
+|5| :white_check_mark:| Aduino Sensor UI| Android | B ||
+|6| :white_check_mark:| Music Player| Android | B ||
+|7| :white_check_mark:| Login, Bulletin| JSP | B ||
+|8| :white_check_mark:| Product Business App| JPA | C ||
+|9| :white_check_mark:| Product Business App| Spring | C ||
 |0| :white_check_mark:| Algorithm Study| Python,Java,CPP | onGoing ||
 
 #### A: skillful
