@@ -1,19 +1,22 @@
 # PROJECTLIST
-### 1. :white_check_mark: Python - Crawling Stock info [Done - not linked yet]()
-### 2. :white_check_mark: Python - Crawling Articles [Done  -not linked yet]() 
-### 3. :white_check_mark: Python - Imaging Process [Done  -not linked yet]()
-### 4. :white_check_mark: JSP - Login & Bulletin [Done  -not linked yet]()
-### 5. :white_check_mark: JPA- Businees Model  [Not Yet  -not linked yet]()
-### 6. :white_check_mark: Spring - Businees Model [Not Yet  -not linked yet]()
-### 7. :white_check_mark: Android - Aduino Sensor UI [Done](https://github.com/minchjung/Android)
-### 9. :white_check_mark: Processing- Aduino Sensor GUI [Done](https://github.com/minchjung/processing3.0)
-### 0. :white_check_mark: Android - Music Player [Not yet](https://github.com/minchjung/Android)
-### a. :white_check_mark: HTML,CSS,Javascript -Webdesign [Done]() 
-### b. :white_check_mark: Algorithm Study [Study for good]()
-#### Done means well awared enough to say its skillful
-#### Not Yet means the project done but not fully understanded
-#### not linked yet means soon be on that Link from my notes and desktop
-#### All that things need to be developed far more though still the product shine itself for good 
+|No.|Stat|Title|Skill|Level|Link|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1| :white_check_mark:| Crawling Stock info| Python | A||
+|2| :white_check_mark:| Crawling Article| Python | A ||
+|3| :white_check_mark:| Calendar| Python | A ||
+|4| :white_check_mark:| Login, Bulletin| JSP | A ||
+|5| :white_check_mark:| Product Business App| JPA | C ||
+|6| :white_check_mark:| Product Business App| Spring | C ||
+|7| :white_check_mark:| Aduino Sensor UI| Processing | A ||
+|8| :white_check_mark:| Aduino Sensor UI| Android | B ||
+|9| :white_check_mark:| Music Player| Android | B ||
+|0| :white_check_mark:| Algorithm Study| Python,Java,CPP | onGoing ||
+
+#### A: skillful
+#### B: not fully understood
+#### C: repeat more than 2 times at least
+#### All needs to be developed far more though still the product shine itself for good 
+#### Link soon be on,from my notes 
 
 
 </br>  
