@@ -1,5 +1,5 @@
 # PROJECTLIST
-|No.|Stat|Title|Skill|Level|Link|
+|No.|Stat|Title|Skill||Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1| :white_check_mark:| Crawling Stock info| Python | A||
 |2| :white_check_mark:| Crawling Article| Python | A ||
