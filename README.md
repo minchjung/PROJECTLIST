@@ -40,6 +40,7 @@
 </br>  
 
 # Work to do JUNE-2021
+### 0. Refactoring all projects 
 ### 1. Spring Study by Lecture 
 ### 2. Spring Practical trial by BootCamp
 ### 3. Retry Music Player with Kotlin & Compose
