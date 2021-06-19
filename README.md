@@ -14,7 +14,7 @@
 
 #### A: skillful
 #### B: not fully understood
-#### C: SHOULD repeat at least 3 times
+#### C: SHOULD repeat at least 3 times more 
 #### All needs to be developed far more though still the product shine itself for good 
 #### Link soon be on
 
