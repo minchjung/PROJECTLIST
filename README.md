@@ -37,7 +37,6 @@
 ### :white_check_mark: 비전공자를 위한 이해할 수 있는 it 지식  [review](https://github.com/minchjung/termsStudy)    
 ### :white_large_square: 운영체제 쉽게 배운다 [review](https://github.com/minchjung/termsStudy)  
 ### :white_large_square: 한권으로 그리는 컴퓨터 과학 
-### :white_large_square: 흔하지 않고 좋은 웹 개발자가 되는 방법
 </br>  
 
 # Work to do JUNE-2021
