@@ -61,5 +61,5 @@
 |June 18| Refactoring|[1] Crawling Articles| 2/20||
 |June 18| Study|[4] HTTP| 41/41 ||
 |June 19| Refactoring|[1] Crawling Stock info | 3/20|[Link](https://github.com/minchjung/StockCrawling)|
-|June 19| Study|[4] BOOK-쉽게 배우는 운영체제| 1.5/12 ||
+|June 19| Study|[4] 쉽게 배우는 운영체제| 1.5/12 ||
 
