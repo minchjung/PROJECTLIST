@@ -43,8 +43,8 @@
 ### 0. Refactoring all projects 
 ### 1. Spring Study by Lecture 
 ### 2. Spring Practical trial by BootCamp
-~~### 3. Retry Music Player with Kotlin & Compose~~
-~~### 4. Android New Project with decent Architecther/ Compose ~~
+### ~~3. Retry Music Player with Kotlin & Compose~~  
+### ~~4. Android New Project with decent Architecther/ Compose~~   
 
 # To do Detail 
 |Date.|Todo|Title|Steps|Link|
