@@ -57,7 +57,7 @@
 |June 16| Study|[4] HTTP| 21/41 ||
 |June 17| Study|[2] Spring-MVC| 68/122||
 |June 17| Study|[4] HTTP| 31/41 ||
-|June 17| Study|[4]BOOK-쉽게 배우는 운영체제| 1/12 ||
+|June 17| Study|[4] 쉽게 배우는 운영체제| 1/12 ||
 |June 18| Refactoring|[1] Crawling Articles| 2/20||
 |June 18| Study|[4] HTTP| 41/41 ||
 |June 19| Refactoring|[1] Crawling Stock info | 3/20|[Link](https://github.com/minchjung/StockCrawling)|
