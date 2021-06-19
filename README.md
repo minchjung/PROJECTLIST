@@ -27,7 +27,7 @@
 ### :white_check_mark: Spring Core :point_left:MUST REPEAT [Study]((https://github.com/minchjung/termsStudy/edit/main/README.md))
 ### :white_check_mark: 실전 Spring Boot & JPA 활용1 :point_left:MUST REPEAT [Study]((https://github.com/minchjung/termsStudy/edit/main/README.md))
 ### :white_large_square: Spring MVC1편  [Study on Going]((https://github.com/minchjung/termsStudy/edit/main/README.md))
-### :white_large_square: HTTP 웹 기본지식 [Study on Going](https://github.com/minchjung/termsStudy/edit/main/README.md)
+### :white_check_mark: HTTP 웹 기본지식 [Study on Going](https://github.com/minchjung/termsStudy/edit/main/README.md)
 </br>  
 
 # Book List 
@@ -40,19 +40,26 @@
 </br>  
 
 # Work to do JUNE-2021
-### 0. Refactoring all projects 
-### 1. Spring Study by Lecture 
-### 2. Spring Practical trial by BootCamp
+### 1. Refactoring old projects 
+### 2. Spring Study by Lecture 
+### 3. Spring Practical trial by BootCamp
+### 4. Network System and OS Study by Book
 ### ~~3. Retry Music Player with Kotlin & Compose~~  
 ### ~~4. Android New Project with decent Architecther/ Compose~~   
 
 # To do Detail 
-|Date.|Todo|Title|Steps|Link|
-|:---:|:---:|:---:|:---:|:---:|
-|June 14| Project|MusicPlayer| Done||
-|June 15| Review|MusicPlayer| None ||
-|June 16| Refactoring|Calendar| 1/5 |[Link](https://github.com/minchjung/Calendar)|
-|June 17| Study|Spring| 68/122||
-|June 18| Refactoring|Crawling Articles| 1/5||
-|June 19| Refactoring|Crawling Stock info | 1/5|[Link](https://github.com/minchjung/StockCrawling)|
+|Date.|Todo|Title|Steps|Link||
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|June 14| Project|MusicPlayer| 7/7||
+|June 15| Review|MusicPlayer| 1/1 ||
+|June 15| Study|[4] HTTP| 10/41 ||
+|June 16| Refactoring|[1] Calendar| 1/20 |[Link](https://github.com/minchjung/Calendar)|
+|June 16| Study|[4] HTTP| 21/41 ||
+|June 17| Study|[2] Spring-MVC| 68/122||
+|June 17| Study|[4] HTTP| 31/41 ||
+|June 17| Study|[4]BOOK-쉽게 배우는 운영체제| 1/12 ||
+|June 18| Refactoring|[1] Crawling Articles| 2/20||
+|June 18| Study|[4] HTTP| 41/41 ||
+|June 19| Refactoring|[1] Crawling Stock info | 3/20|[Link](https://github.com/minchjung/StockCrawling)|
+|June 19| Study|[4] BOOK-쉽게 배우는 운영체제| 1.5/12 ||
 
