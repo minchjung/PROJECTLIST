@@ -40,27 +40,33 @@
 </br>  
 
 # Work to do JUNE-2021
-### 1. Refactoring old projects 
-### 2. Spring Study by Lecture 
-### 3. Spring Practical trial by BootCamp
-### 4. Network System and OS Study by Book
-### ~~3. Retry Music Player with Kotlin & Compose~~  
-### ~~4. Android New Project with decent Architecther/ Compose~~   
+### 1. :hammer:Refactoring old projects 
+### 2. :computer: Spring Study by Lecture 
+### 3. :computer: Spring Practical trial by BootCamp
+### 4. :books: Network System and OS Study by Book
+### 5. :apple: Data Structure, Algorithm 
+### 6. ✨: NEW  Subject to learn  
+### ~~0. 🎯 Project~~  
+### ~~0. 📝Review Music Player~~  
+### ~~0. Android New Project with decent Architecther/ Compose~~   
 
 # To do Detail 
 |Date.|Todo|Title|Steps|Link||
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|June 14| Project|MusicPlayer| 7/7||
-|June 15| Review|MusicPlayer| 1/1 ||
-|June 15| Study|[4] HTTP| 10/41 ||
-|June 16| Refactoring|[1] Calendar| 1/20 |[Link](https://github.com/minchjung/Calendar)|
-|June 16| Study|[4] HTTP| 21/41 ||
-|June 17| Study|[2] Spring-MVC| 68/122||
-|June 17| Study|[4] HTTP| 31/41 ||
-|June 17| Study|[4] 쉽게 배우는 운영체제| 1/12 ||
-|June 18| Refactoring|[1] Crawling Articles| 2/20||
-|June 18| Study|[4] HTTP| 41/41 ||
-|June 19| Refactoring|[1] Crawling Stock info | 3/20|[Link](https://github.com/minchjung/StockCrawling)|
-|June 19| Study|[4] 쉽게 배우는 운영체제| 1.5/12 ||
-|June 20| Study|[1] Crawling Stock info | 4/20|[Link](https://github.com/minchjung/StockCrawling)|
+|June 14| 🎯| MusicPlayer | 7/7||
+|June 15| 📝|MusicPlayer| 1/1 ||
+|June 15| :computer:| HTTP | 10/41 ||
+|June 16| :hammer:| Calendar | 1/20 |[Link](https://github.com/minchjung/Calendar)|
+|June 16| :computer:| HTTP| 21/41 ||
+|June 17| :computer:| Spring-MVC| 68/122||
+|June 17| :computer:| HTTP| 31/41 ||
+|June 17| :books:| 쉽게 배우는 운영체제| 1/12 ||
+|June 18| :hammer:| Crawling Articles| 2/20||
+|June 18| :computer:| HTTP| 41/41 ||
+|June 19| :hammer:| Crawling Stock info | 3/20|[Link](https://github.com/minchjung/StockCrawling)|
+|June 19| :books:| 쉽게 배우는 운영체제| 1.5/12 ||
+|June 20| :hammer:|Crawling Stock info | 4/20|[Link](https://github.com/minchjung/StockCrawling)|
+|June 20| :apple:|Data-Structure 재귀함수 와 콜백 차이점  ||[Link](https://github.com/minchjung/DataStructure/blob/main/DS2_530_Reculsive08_py/main.py)|
+|June 20| :sparkles:| NEW SUBJECT RxJava 와 ReactiveX- Android Observable,Subscriber |:sparkles:||
+
 
