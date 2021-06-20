@@ -67,6 +67,6 @@
 |June 19| :books:| 쉽게 배우는 운영체제| 1.5/12 ||
 |June 20| :hammer:|Crawling Stock info | 4/20|[Link](https://github.com/minchjung/StockCrawling)|
 |June 20| :apple:|Data-Structure 재귀함수 와 콜백 차이점  ||[Link](https://github.com/minchjung/DataStructure/blob/main/DS2_530_Reculsive08_py/main.py)|
-|June 20| :sparkles:| NEW SUBJECT RxJava 와 ReactiveX- Android Observable,Subscriber |:sparkles:||
+|June 20| :sparkles:| RxJava, ReactiveX|:sparkles:||
 
 
