@@ -27,7 +27,7 @@
 ### :white_check_mark: Spring Core :point_left:MUST REPEAT [Study]((https://github.com/minchjung/termsStudy/edit/main/README.md))
 ### :white_check_mark: 실전 Spring Boot & JPA 활용1 :point_left:MUST REPEAT [Study]((https://github.com/minchjung/termsStudy/edit/main/README.md))
 ### :white_large_square: Spring MVC1편  [Study on Going]((https://github.com/minchjung/termsStudy/edit/main/README.md))
-### :white_check_mark: HTTP 웹 기본지식 [Study on Going](https://github.com/minchjung/termsStudy/edit/main/README.md)
+### :white_check_mark: HTTP 웹 기본지식 [Study on Going](https://github.com/minchjung/termsStudy)
 </br>  
 
 # Book List 
