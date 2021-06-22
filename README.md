@@ -17,3 +17,6 @@
 #### C: SHOULD repeat at least 3 times more 
 #### All needs to be developed far more though still the product shine itself for good 
 #### Link soon be on
+
+### To do [wiki](https://github.com/minchjung/PROJECTLIST/wiki/To-do)  
+### BOOK 운영체제 Study [wiki](https://github.com/minchjung/termsStudy/wiki)  
