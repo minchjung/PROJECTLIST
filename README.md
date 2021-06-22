@@ -19,5 +19,5 @@
 #### All needs to be developed far more though still the product shine itself for good 
 #### Link soon be on
 
-### To do [wiki](https://github.com/minchjung/PROJECTLIST/wiki/To-do)  
-### Study [wiki](https://github.com/minchjung/termsStudy/wiki)  
+### To do [Link](https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021)
+### Study [Link](https://github.com/minchjung/termsStudy/wiki)  
