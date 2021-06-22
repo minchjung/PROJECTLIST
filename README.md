@@ -11,6 +11,7 @@
 |8| :white_check_mark:| Product Business App| JPA | C ||
 |9| :white_check_mark:| Product Business App| Spring | C ||
 |0| :white_check_mark:| Algorithm Study| Python,Java,CPP | onGoing |[Link](https://github.com/minchjung/DataStructure)|
+|a|:white_check_mark:| WebDesign |javascript, html, css|[link](https://github.com/minchjung/WebDesign)|
 
 #### A: skillful
 #### B: not fully understood
