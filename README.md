@@ -19,4 +19,4 @@
 #### Link soon be on
 
 ### To do [wiki](https://github.com/minchjung/PROJECTLIST/wiki/To-do)  
-### BOOK 운영체제 Study [wiki](https://github.com/minchjung/termsStudy/wiki)  
+### Study [wiki](https://github.com/minchjung/termsStudy/wiki)  
