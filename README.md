@@ -20,4 +20,5 @@
 #### Link soon be on
 
 ### To do [Link](https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021)
-### Study [Link](https://github.com/minchjung/termsStudy/wiki)  
+### Book Study [Link](https://github.com/minchjung/CSstudy/wiki)  
+### Spring Study [Link](https://github.com/minchjung/SpringStudy/wiki)  
