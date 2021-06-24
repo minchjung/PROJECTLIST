@@ -18,6 +18,8 @@
 #### C: SHOULD repeat at least 3 times more 
 #### All needs to be developed far more though still the product shine itself for good 
 #### Link soon be on
+#### a lot of works of WebDesign, but its ...귀찮
+
 
 ### To do [Link](https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021)
 ### Book Study [Link](https://github.com/minchjung/CSstudy/wiki)  
