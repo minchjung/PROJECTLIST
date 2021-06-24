@@ -16,7 +16,7 @@
 #### A: skillful
 #### B: not fully understood
 #### C: SHOULD repeat at least 3 times more 
-#### All needs to be developed far more though still the product shine itself for good 
+#### All need to be developed far more though still the product shine itself for good 
 #### Link soon be on
 #### a lot of works of WebDesign, but its ...귀찮
 
