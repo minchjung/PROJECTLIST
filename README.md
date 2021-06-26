@@ -20,8 +20,8 @@
 #### Link soon be on
 #### a lot of works of WebDesign, but its ...귀찮
 
-
-### Todo [Link](https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021)
-### Book Study [Link](https://github.com/minchjung/CSstudy/wiki)  
-### Spring Study [Link](https://github.com/minchjung/SpringStudy/wiki)  
-### Algorithm Study [Link](https://github.com/minchjung/Algorithm)  
+# STUDY
+### [**Todo**](https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021)  
+### [**CS**](https://github.com/minchjung/CSstudy/wiki)  
+### [**Spring**](https://github.com/minchjung/SpringStudy/wiki)  
+### [**Algorithm**](https://github.com/minchjung/Algorithm)  
