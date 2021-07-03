@@ -21,7 +21,7 @@
 #### a lot of works of WebDesign, but its ...귀찮
 
 # STUDY
-### [**Todo**](https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021)  
+### [**Todo**](https://github.com/minchjung/PROJECTLIST/wiki/July)  
 ### [**CS**](https://github.com/minchjung/CSstudy/wiki)  
 ### [**Spring**](https://github.com/minchjung/SpringStudy/wiki)  
 ### [**Algorithm**](https://github.com/minchjung/Algorithm)  
