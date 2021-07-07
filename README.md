@@ -23,5 +23,5 @@
 # STUDY
 ### [**Todo**](https://github.com/minchjung/PROJECTLIST/wiki/July)  
 ### [**CS**](https://github.com/minchjung/CSstudy/wiki/%EC%A0%84%EC%B2%B4-%EB%AA%A9%EC%B0%A8-%EB%A6%AC%EC%8A%A4%ED%8A%B8)  
-### [**Spring**](https://github.com/minchjung/SpringStudy/wiki)  
+### [**Spring**](https://github.com/minchjung/SpringStudy)  
 ### [**Algorithm**](https://github.com/minchjung/Algorithm)  
