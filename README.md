@@ -7,7 +7,7 @@
 |4| :white_check_mark:| Aduino Sensor UI| Processing | A |[Link](https://github.com/minchjung/processing3.0)|
 |5| :white_check_mark:| Aduino Sensor UI| Android | B |[Link](https://github.com/minchjung/Android)|
 |6| :white_check_mark:| Music Player| Android | B |[Link](https://github.com/minchjung/Android)|
-|7| :white_check_mark:| Travel Program| Spring | B ||
+|7| :white_check_mark:| Travel Program| Spring | B |[Link](https://github.com/minchjung/TravelProgram)|
 |8| :white_check_mark:| Login, Bulletin| JSP | B ||
 |0| :white_check_mark:| Algorithm Study| Python,Java,CPP | onGoing |[Link](https://github.com/minchjung/DataStructure)|
 |a|:white_check_mark:| WebDesign|javascript, html, css||[Link](https://github.com/minchjung/WebDesign)|
