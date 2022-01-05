@@ -11,8 +11,8 @@
 |7| :white_check_mark:| Travel Program| Java, Spring | B |[Link](https://github.com/minchjung/TravelProgram)|
 |8| :white_check_mark:| Login, Bulletin| Java, JSP | B ||
 |9| :white_check_mark:| Algorithm Study| Python,Java,CPP | onGoing |[Link](https://github.com/minchjung/DataStructure)|
-|10|:white_check_mark:| WebDesign|javascript,html,css||[Link](https://github.com/minchjung/WebDesign)|
-|11|:white_check_mark:| Weadresser|javascript, React, Nodejs||[Link](https://github.com/codestates/weadresser)|
+|10|:white_check_mark:| WebDesign|Javascript||[Link](https://github.com/minchjung/WebDesign)|
+|11|:white_check_mark:| Weadresser|Javascript, React, Nodejs||[Link](https://github.com/codestates/weadresser)|
 
 #### A: skillful
 #### B: not fully understood
