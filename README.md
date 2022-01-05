@@ -7,7 +7,7 @@
 |3| :white_check_mark:| Calendar| Python | A |[Link](https://github.com/minchjung/Calendar)|
 |4| :white_check_mark:| Aduino Sensor UI| Java, Processing | A |[Link](https://github.com/minchjung/processing3.0)|
 |5| :white_check_mark:| Aduino Sensor UI| Java, Android | A |[Link](https://github.com/minchjung/Android)|
-|6| :white_check_mark:| Music Player| Java, Android | A |[Link](https://github.com/minchjung/Android)|
+|6| :white_check_mark:| Music Player| Java, Android | A |[Link](https://github.com/minchjung/Android/tree/master/106MusicPlayer_BindingData01/main)|
 |7| :white_check_mark:| Travel Program| Java, Spring | B |[Link](https://github.com/minchjung/TravelProgram)|
 |8| :white_check_mark:| Login, Bulletin| Java, JSP | B ||
 |0| :white_check_mark:| Algorithm Study| Python,Java,CPP | onGoing |[Link](https://github.com/minchjung/DataStructure)|
