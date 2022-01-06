@@ -17,16 +17,14 @@
 #### A: skillful
 #### B: not fully understood
 #### C: SHOULD repeat at least 3 times more 
-#### All need to be developed far more though still the product shine itself for good 
-#### Link soon be on
-#### a lot of works of WebDesign, but its ...귀찮
 
 # STUDY
-### [**Todo**](https://github.com/minchjung/PROJECTLIST/wiki/Aug)  
-### [**CS**](https://github.com/minchjung/CSstudy)
-### [**Spring**](https://github.com/minchjung/SpringStudy)  
-### [**Algorithm**](https://github.com/minchjung/Algorithm)  
-### [Current Project Link](https://github.com/minchjung/Weadresser)
+### [**Todo, TIL**](https://github.com/minchjung/PROJECTLIST/wiki/Aug)  
+### [**운영체제**](https://github.com/minchjung/CSstudy)
+### [**스프링**](https://github.com/minchjung/SpringStudy)  
+### [**알고리즘**](https://github.com/minchjung/Algorithm)  
+### [**시스템디자인**](https://github.com/minchjung/SystemDesign)  
+
 <!-- # Project 회고
 ### [Final Project from CODESTATES](https://github.com/minchjung/retrospect-of-projec5.git)
  -->
